@@ -4,4 +4,4 @@ ToMMI (TOkens for Multiplatform tangible Mobile Interaction), a robust and low-c
 ## Features
 
 ##Documentation
-Please refer to Wiki for up-to-date documentation and tutorials.
+Please refer to [Wiki](https://github.com/CGVGroup/ToMMI/wiki) for up-to-date documentation and tutorials.

@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/ToMMI/Examples/Token Data Cycle.unity
-  isLoaded: 1
-  isActive: 1

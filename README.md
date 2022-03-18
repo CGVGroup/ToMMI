@@ -10,8 +10,8 @@ ToMMI (TOkens for Multiplatform tangible Mobile Interaction), a robust and low-c
 * Wraps around Unity Input class providing users with both touch and token data on a per frame basis.
 * The system is DPI independent (i.e. will work on any multi-touch enabled mobile device).
 
-##Documentation
+## Documentation
 Please refer to [Wiki](https://github.com/CGVGroup/ToMMI/wiki) for up-to-date documentation and tutorials.
 
-##References
+## References
 The ToMMI framework was featured at the *International Conference on Human Computer Interaction Theory and Applications (HUCAPP) 2017* held in Porto, Portugal. Reference to the published paper can be found [here] (http://porto.polito.it/2658757/).
